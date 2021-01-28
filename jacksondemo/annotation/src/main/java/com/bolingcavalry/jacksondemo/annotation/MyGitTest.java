@@ -8,5 +8,6 @@ public class MyGitTest {
 
     public void gitTest(){
         System.out.println("第A次提交");
+        System.out.println("第B次提交");
     }
 }
