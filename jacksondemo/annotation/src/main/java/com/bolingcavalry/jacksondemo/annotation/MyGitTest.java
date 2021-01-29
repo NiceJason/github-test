@@ -11,5 +11,8 @@ public class MyGitTest {
         System.out.println("第B次提交");
         System.out.println("第C次提交");
         System.out.println("第C次提交-2");
+        System.out.println("第D次提交");
+        System.out.println("第E次提交");
+        System.out.println("第F次提交");
     }
 }
